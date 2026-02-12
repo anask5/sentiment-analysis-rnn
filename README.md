@@ -14,22 +14,9 @@ This project implements a Sentiment Analysis system using a Recurrent Neural Net
 
 The model is trained on the IMDB Movie Reviews Dataset and demonstrates basic Natural Language Processing (NLP) and Deep Learning concepts.
 
-📁 Project Structure
-SENTIMENT-ANALYSIS-RNN
-│
-├── data/
-│   └── IMDB Dataset.csv
-│
-├── model/
-│   └── sentiment.py
-│
-├── .gitignore
-├── requirements.txt
-└── LICENSE
-
 🎯 Objective
 
-To understand text preprocessing techniques
+To understand how is RNN works
 
 To perform sentiment classification using RNN
 
